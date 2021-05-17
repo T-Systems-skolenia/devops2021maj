@@ -1,12 +1,12 @@
-# Toto je jahodka
+# Toto je malinka
 
-Jahodka je vybornaaaaaa a este:
+Malinka je vybornaaaaaa a este:
 
 * fajna
-* vyborna
+* cervena alebo ruzova alebo zlta alebo biela
 * mnam!
 
-Koniec suboru **jahodka**.
+Koniec suboru **malinka**.
 
 # Novy nadpis
 

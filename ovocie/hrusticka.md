@@ -1,12 +1,12 @@
-# Toto je jahodka
+# Toto je hrusticka
 
-Jahodka je vybornaaaaaa a este:
+Hrusticka je vybornaaaaaa a este:
 
 * fajna
-* vyborna
+* zlta
 * mnam!
 
-Koniec suboru **jahodka**.
+Koniec suboru **hrusticka**.
 
 # Novy nadpis
 

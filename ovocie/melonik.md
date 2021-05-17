@@ -1,12 +1,12 @@
-# Toto je jahodka
+# Toto je melonik
 
-Jahodka je vybornaaaaaa a este:
+Melonik je vybornyyyy a este:
 
 * fajna
-* vyborna
+* cerveny alebo zlty
 * mnam!
 
-Koniec suboru **jahodka**.
+Koniec suboru **melonik**.
 
 # Novy nadpis
 
