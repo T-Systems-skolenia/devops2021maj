@@ -1,10 +1,12 @@
 # Toto je jahodka
 
-Jahodka je vybornaaaaaa a este:
+Jahodka je vybornaaaaaa, perfektnaaaa a este:
 
 * fajna
-* vyborna
+* cervena
 * mnam!
+
+Novy riadok.
 
 Koniec suboru **jahodka**.
 
