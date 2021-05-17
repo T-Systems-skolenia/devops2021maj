@@ -1,13 +1,15 @@
 # Toto je jahodka
 
-Jahodka je vybornaaaaaa a este:
+Jahodka je perfektnaaaa a vybornaaaaaa a este:
 
 * fajna
-* vyborna
+* mnamka
 * mnam!
 
 Koniec suboru **jahodka**.
 
 # Novy nadpis
+
+Novy novy novy lokalny.
 
 Novy riadok na konci
