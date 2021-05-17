@@ -1,3 +1,14 @@
 # devops2021maj
 
-Jahodka
+## jahodka
+
+Jahodka je *fajna* a je vzdy **chutna**. Toto je `kod`.
+
+* jedna
+* druha
+* tretia
+* stvrta
+
+1. jahodka
+2. malinka
+3. fajna
