@@ -1,6 +1,6 @@
 # Toto je jahodka
 
-Jahodka je perfektnaaaa a vybornaaaaaa a este:
+Jahodka je:
 
 * fajna
 * cervena
