@@ -1,4 +1,4 @@
-# Toto je malinka
+# Toto je malinkaaaa
 
 Malinka je vybornaaaaaa a este:
 
@@ -11,3 +11,6 @@ Koniec suboru **malinka**.
 # Novy nadpis
 
 Novy riadok na konci
+
+
+nejake zmeny uzasne
