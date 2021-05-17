@@ -3,8 +3,10 @@
 Jahodka je perfektnaaaa a vybornaaaaaa a este:
 
 * fajna
-* mnamka
+* cervena
 * mnam!
+
+Novy riadok.
 
 Koniec suboru **jahodka**.
 
