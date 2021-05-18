@@ -13,4 +13,4 @@ Koniec suboru **malinka**.
 Novy riadok na konci
 
 
-nejake zmeny uzasne
+nejake zmeny uzasne kvoli gitu ssh
